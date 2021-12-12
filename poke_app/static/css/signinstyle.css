@@ -1,0 +1,17 @@
+* {
+    margin : 0;
+    padding : 0;
+    text-align: center;
+}
+
+.login_container {
+    width: 333px;
+    margin: 33px;
+    border: solid black 1px;
+    padding: 33px;
+    display: inline-block;
+    border-radius: 11px;
+}
+a {
+    display: block;
+}

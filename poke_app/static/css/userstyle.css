@@ -1,0 +1,17 @@
+* {
+    margin : 0;
+    padding : 0;
+    text-align: center;
+}
+
+.table_container {
+    width: 777px;
+    margin: 11px;
+    border: solid black 1px;
+    padding: 11px;
+    display: inline-block;
+    border-radius: 11px;
+}
+a {
+    display: block;
+}
